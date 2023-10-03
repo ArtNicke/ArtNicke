@@ -1,5 +1,4 @@
-👋 Hi, I'm @ArtNicke.Dev
-
+👋 Hi, I'm Nicke!
 🚀 I'm passionate about technology and always eager to learn.
 
 🌱 Currently, I'm focused on mastering JavaScript and Angular through a bootcamp.
